@@ -12,3 +12,5 @@ Note!
 1. Application State variables are available across all pages, and across all sessions. Like Multi User Global Data.
 2. Application State variables are stored on the web server. 
 3. Application State variables are cleared, when the process hosting the application is restarted. 
+
+This technology is perfect for a company's Contact Form in their website app.
